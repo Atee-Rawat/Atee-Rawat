@@ -1,16 +1,99 @@
-# 💫 About Me:
-I’m currently working as a Fullstack Intern at Otomator Technologies, where I’m developing an EV charging application for the US market as of now, after working on multiple web and app projects.<br> I’m looking to collaborate on open-source React Native and Expo projects, and I’m currently learning advanced backend architecture with both Node.js and GoLang to complement my mobile skills.<br> I’m looking for help with complex NativeWind styling patterns, but feel free to ask me about building cross-platform apps or even Kumaoni and Garhwali poetry. Fun fact: I successfully architected and deployed a massive school management ecosystem (iDeiaCard) spanning four different mobile apps and a web backend while completing my engineering degree.
+<div align="center">
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rawatateeshay4002@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?logo=netlify&logoColor=white)](https://dazzling-seahorse-d29b8b.netlify.app/)
+# Ateeshay Rawat
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+### Mobile-First Full Stack Engineer | Building Scalable Real-World Products
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Atee-Rawat&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Atee-Rawat&theme=tokyonight&hide_border=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atee-Rawat&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Production-Ready+Apps;Mobile+%2B+Backend+Architecture;From+Idea+to+Deployment)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=Atee-Rawat&label=Profile%20Views&color=58A6FF&style=flat" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Atee-Rawat&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 About Me
+
+I’m a **Full Stack Intern at Otomator Technologies**, currently working on an **EV charging application for the US market**, handling both **mobile (React Native / Expo)** and **backend architecture (Node.js & Go)**.
+
+I specialize in **building, scaling, and deploying real products**, not just demos.  
+Previously, I architected and deployed **iDeiaCard**, a large-scale school management ecosystem spanning **4 mobile apps + a web backend**, alongside my engineering degree.
+
+- 🔭 Currently building **production mobile apps**
+- 🌱 Learning **advanced backend architecture (Node.js & Go)**
+- 🤝 Open to **open-source React Native & Expo collaborations**
+- 💬 Ask me about **cross-platform apps, deployments, or Kumaoni & Garhwali poetry**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frameworks & Platforms
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167FF?style=for-the-badge&logo=digitalocean)
+
+---
+
+## 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<b>iDeiaCard</b><br/>
+School management ecosystem with 4 mobile apps + web backend.<br/>
+<b>Stack:</b> React Native, Node.js, Cloud
+</td>
+<td width="50%">
+<b>EV Charging App (US)</b><br/>
+Production-grade mobile app for EV charging infrastructure.<br/>
+<b>Stack:</b> React Native, Expo, Backend APIs
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Atee-Rawat&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atee-Rawat&layout=compact&theme=tokyonight" height="170"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Atee-Rawat&theme=tokyonight"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="mailto:rawatateeshay4002@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://dazzling-seahorse-d29b8b.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+✨ Building real products, not just repositories ✨
+</div>
