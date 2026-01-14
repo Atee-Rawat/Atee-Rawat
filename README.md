@@ -14,15 +14,32 @@
 
 ## 🚀 About Me
 
-I’m a **Full Stack Intern at Otomator Technologies**, currently working on an **EV charging application for the US market**, handling both **mobile (React Native / Expo)** and **backend architecture (Node.js & Go)**.
+I’m a **Full Stack Intern at Otomator Technologies**, currently working on a **production-grade EV charging application for the US market**, handling both **mobile (React Native / Expo)** and **backend architecture (Node.js & Go)**.
 
-I specialize in **building, scaling, and deploying real products**, not just demos.  
-Previously, I architected and deployed **iDeiaCard**, a large-scale school management ecosystem spanning **4 mobile apps + a web backend**, alongside my engineering degree.
+I focus on **shipping scalable products**, not just prototypes.  
+Previously, I architected and deployed **iDeiaCard**, a large-scale school management ecosystem spanning **4 mobile apps and a web backend**, alongside my engineering degree.
 
-- 🔭 Currently building **production mobile apps**
-- 🌱 Learning **advanced backend architecture (Node.js & Go)**
-- 🤝 Open to **open-source React Native & Expo collaborations**
-- 💬 Ask me about **cross-platform apps, deployments, or Kumaoni & Garhwali poetry**
+- 🔭 Working on **real-world mobile & backend systems**
+- 🌱 Learning **advanced backend architecture with Go & Node.js**
+- 🤝 Open to **React Native / Expo open-source collaborations**
+
+---
+
+## 🧭 Experience Timeline
+
+### 🏢 **Full Stack Intern — Otomator Technologies**
+**2024 – Present**
+- Developing a **US-market EV charging mobile application**
+- Building scalable APIs and backend services
+- Working across **mobile, backend, and cloud deployment**
+
+---
+
+### 🏫 **Lead Developer — iDeiaCard**
+**2023 – 2024**
+- Architected a **school management ecosystem**
+- Built **4 mobile applications + 1 web backend**
+- Designed scalable authentication, role-based access, and deployment pipelines
 
 ---
 
@@ -49,22 +66,49 @@ Previously, I architected and deployed **iDeiaCard**, a large-scale school manag
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
-<b>iDeiaCard</b><br/>
-School management ecosystem with 4 mobile apps + web backend.<br/>
-<b>Stack:</b> React Native, Node.js, Cloud
+<a href="https://github.com/Atee-Rawat/campus-cravings">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Atee-Rawat&repo=campus-cravings&theme=tokyonight" />
+</a>
+<p align="center"><b>Campus Cravings</b><br/>Campus-focused food ordering platform</p>
 </td>
+
 <td width="50%">
-<b>EV Charging App (US)</b><br/>
-Production-grade mobile app for EV charging infrastructure.<br/>
-<b>Stack:</b> React Native, Expo, Backend APIs
+<a href="https://github.com/Atee-Rawat/GymBuddy">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Atee-Rawat&repo=GymBuddy&theme=tokyonight" />
+</a>
+<p align="center"><b>GymBuddy</b><br/>Mobile-first fitness & habit tracking app</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<a href="https://github.com/Atee-Rawat/iDeiaCard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Atee-Rawat&repo=iDeiaCard&theme=tokyonight" />
+</a>
+<p align="center"><b>iDeiaCard</b><br/>School management ecosystem</p>
+</td>
+
+<td width="50%">
+<a href="https://github.com/Atee-Rawat">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Atee-Rawat&repo=your-next-project&theme=tokyonight" />
+</a>
+<p align="center"><b>More Projects Coming</b><br/>Currently building production systems</p>
 </td>
 </tr>
 </table>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Atee-Rawat&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
+</div>
 
 ---
 
@@ -95,5 +139,5 @@ Production-grade mobile app for EV charging infrastructure.<br/>
 ---
 
 <div align="center">
-✨ Building real products, not just repositories ✨
+✨ Focused on building scalable products that ship ✨
 </div>
