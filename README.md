@@ -50,22 +50,7 @@ I’m currently working as a **Fullstack Intern at Otomator Technologies**, wher
 - Working across **mobile apps, backend APIs, and deployments**.
 - Shipping production features in a startup environment.
 
----
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Atee-Rawat/CampusCravings">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atee-Rawat&repo=CampusCravings&theme=tokyonight" />
-</a>
-<a href="https://github.com/Atee-Rawat/Productivity-OS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atee-Rawat&repo=Productivity-OS&theme=tokyonight" />
-</a>
-
-</div>
-
----
 
 <div align="center">
   <tr>
