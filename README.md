@@ -51,6 +51,7 @@ I’m currently working as a **Fullstack Intern at Otomator Technologies**, wher
 - Shipping production features in a startup environment.
 
 
+---
 
 <div align="center">
   <tr>
